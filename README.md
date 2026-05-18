@@ -1,6 +1,6 @@
 Ransomware Krüpteerimise Demod
 
-See projekt sisaldab nelja Python skripti, mis näitavad lunavara tööpõhimõttega seotud krüpteerimisprotsesse kontrollitud õppekeskkonnas.
+See projekt sisaldab nelja Python skripti, mis näitavad lunavara tööpõhimõttega seotud krüpteerimisprotsesse kontrollitud õppekeskkonnas. Skriptid on tehtud AI kasutusega.
 
 Skriptid
 simulate.py – failide krüpteerimise simulatsioon kaustas testkaust
